@@ -62,7 +62,6 @@ export default function ChatWindow() {
                     onChange={changeInputData}
                 />
                 <RequestButton disabled={!requestData || !openSuccess || isLoading} />
-                <button onClick={() =>setConnect(true)}> Reload </button>
             </form> 
         </div>
      )
