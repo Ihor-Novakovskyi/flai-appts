@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/flai-appts/static/css/main.36cb1171.css",
+    "main.css": "/flai-appts/static/css/main.932a8a15.css",
     "main.js": "/flai-appts/static/js/main.86abda06.js",
     "index.html": "/flai-appts/index.html",
-    "main.36cb1171.css.map": "/flai-appts/static/css/main.36cb1171.css.map",
+    "main.932a8a15.css.map": "/flai-appts/static/css/main.932a8a15.css.map",
     "main.86abda06.js.map": "/flai-appts/static/js/main.86abda06.js.map"
   },
   "entrypoints": [
-    "static/css/main.36cb1171.css",
+    "static/css/main.932a8a15.css",
     "static/js/main.86abda06.js"
   ]
 }
