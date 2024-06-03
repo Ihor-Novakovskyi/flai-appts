@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flai-appts/static/css/main.36cb1171.css",
+    "main.js": "/flai-appts/static/js/main.ee44cf20.js",
+    "index.html": "/flai-appts/index.html",
+    "main.36cb1171.css.map": "/flai-appts/static/css/main.36cb1171.css.map",
+    "main.ee44cf20.js.map": "/flai-appts/static/js/main.ee44cf20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36cb1171.css",
+    "static/js/main.ee44cf20.js"
+  ]
+}
