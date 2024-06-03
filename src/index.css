@@ -1,0 +1,21 @@
+html{
+  --error-text: 8px;
+  --small-text-size: 12px;
+  --general-text-size: 16px;
+  --bix-text-size: 20px;
+  --general-background-color: black;
+  --dialog-backgound-color:#061205;
+  --font-color: white;
+  --background-form-request:#262626;
+  --background-yellow: #e6e600;
+  --user-color: #d966ff;
+  --error-text-color: red;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: var(--font-color);
+  background-color: black;
+  font-size: var(--general-text-size);
+}

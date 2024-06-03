@@ -1,0 +1,9 @@
+.chat-window__error-message{
+    display: flex;
+    padding: 14px 12px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: var(--error-text);
+    color: var(--error-text-color);
+
+}

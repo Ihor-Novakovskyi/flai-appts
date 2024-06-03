@@ -1,0 +1,15 @@
+.form-request__button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-basis: 30px;
+    flex-grow: 0;
+    border: none;
+    background-color: var(--background-form-request);
+    cursor: pointer;
+}
+
+.form-request__button--able:active svg {
+    scale: 0.9;
+}
+

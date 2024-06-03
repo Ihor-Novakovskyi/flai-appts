@@ -1,0 +1,38 @@
+.user{
+    padding: 16px 8px;
+    border-bottom: 1px solid white;
+}
+.user__header{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.user__image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: var(--user-color);
+}
+.user__greetings-wrapper{
+    padding: 0px 4px;
+    margin-bottom: 8px;
+}
+.user__message-wrapper{
+    padding-left: 4px;
+}
+.user__wrapper-inside-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+.user__name{
+    font-size: var(--bix-text-size);
+}
+.user__timer{
+    font-size: var(--small-text-size);
+}
